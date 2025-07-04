@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer | DSA Enthusiast | Open to Collaborations</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7D2&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;700%2B+LeetCode+Problems+Solved;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7D2&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;1000%2B+Coding+Problems+Solved;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,26 +35,27 @@
 | **Coding Tracker** | MERN + API      | Track coding stats and visualize progress     |
 | **Weather App**  | HTML/CSS/JS + API       | Shows real-time weather updates by location   |
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshit-chaudhary&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-chaudhary&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit-chaudhary&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🔗 Let's Connect
 
+
 <p align="left">
-  <a href="https://linkedin.com/in/anshchaudharyy" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:akshitchaudhary5911@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/anshchaudharyy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:akshitchaudhary5911@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.instagram.com/__akshitchaudhary/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://x.com/solly55339" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 ---
