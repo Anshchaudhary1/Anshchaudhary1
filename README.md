@@ -32,7 +32,7 @@
 | Project Name     | Tech Stack              | Description                                   |
 |------------------|-------------------------|-----------------------------------------------|
 | **Study Notion** | MERN + Razorpay         | Full-fledged EdTech platform                  |
-| **Coding Tracker** | MERN + Chart.js       | Track coding stats and visualize progress     |
+| **Coding Tracker** | MERN + API      | Track coding stats and visualize progress     |
 | **Weather App**  | HTML/CSS/JS + API       | Shows real-time weather updates by location   |
 
 ---
